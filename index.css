@@ -5,3 +5,12 @@ body {
 h1 {
   color: white;
 }
+
+.form,
+.askname {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
